@@ -1,0 +1,15 @@
+{
+  "day": 106,
+  "date": "2026-06-01",
+  "title": "OpenAI发布治理框架、Google打造AI支付协议、IBM押注AI开发成本管控",
+  "news_count": 6,
+  "source": "artificialintelligence-news.com",
+  "stories": [
+    "OpenAI前沿治理框架(FGF)：为企业AI部署提供安全蓝图，映射欧盟TFAIA",
+    "Google Pay通用商务协议UCP：为AI Agent支付时代铺路",
+    "Klarna支持Google UCP：AI Agent支付标准化加速",
+    "IBM Bob平台：AI开发成本管控，60-80%预算用于旧系统升级",
+    "新加坡Agentic AI治理框架1.5：AI进入物理世界",
+    "NBA试点AI自动判定出界"
+  ]
+}

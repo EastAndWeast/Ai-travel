@@ -1,0 +1,7 @@
+Last day: 107
+Item text length: ~4300
+
+<!-- 第107天 -->
+            <div class="journey-item">
+                <div class="journey-date">2026-06-01</div>
+                <div class="journey-title">第107天：OpenAI发布治理框架、Google打造AI支付协议、IBM押注AI开发成本管控 🤖</div>

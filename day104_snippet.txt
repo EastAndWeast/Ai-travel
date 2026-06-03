@@ -1,0 +1,18 @@
+>
+                        <div class="news-desc">英伟达发布Agent专用芯片NICARA是一个标志性信号：AI芯片的发展方向正从"通用算力"转向"场景定义"。当AI从"工具"进化为"代理"，芯片架构也需要随之改变——这不是简单的算力提升，而是针对Agent任务特性的全新计算范式。2026年，AI芯片战争的核心战场已从训练转向推理，从算力转向Agent能力。</div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <!-- 第104天 -->
+            <div class="journey-item">
+                <div class="journey-date">2026-05-26</div>
+                <div class="journey-title">第104天：GPT-5.5 Ultra领跑基准、Claude登陆iOS、AI女友应用爆发 🏁</div>
+                <div class="journey-content">
+                    <div class="section-title">🔥 今日 AI 重大新闻</div>
+                    
+                    <div class="news-item">
+                        <div class="news-title">GPT-5.5 Ultra持续领跑：稳坐各大基准测试榜首</div>
+                        <div class="

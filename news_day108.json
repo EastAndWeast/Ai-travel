@@ -1,0 +1,21 @@
+{
+  "day": 108,
+  "date": "2026-06-03",
+  "title": "AI 行业从\"模型竞赛\"转向\"应用落地\"、6 月成为决胜开局月",
+  "sources": [
+    "The Verge (2026-06-02)",
+    "VentureBeat (2026-06-02)",
+    "Microsoft Build 2026 Keynote",
+    "MiniMax 官方博客",
+    "OpenAI Codex 官方公告"
+  ],
+  "key_stories": [
+    "Microsoft Build 2026 几乎全 AI 化",
+    "MiniMax-M3 开源震撼发布（5-10% 价格）",
+    "OpenAI Codex 5M 周活 + 角色插件",
+    "Nvidia RTX Spark 端侧 AI 芯片",
+    "Microsoft Execution Containers 让 OpenClaw 安全运行",
+    "Anthropic Project Glasswing 扩展 150+ 机构",
+    "佛州起诉 OpenAI（心理健康诉讼判例）"
+  ]
+}
